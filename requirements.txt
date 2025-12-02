@@ -1,0 +1,10 @@
+langchain-google-genai
+python-dotenv
+wikipedia-api
+textblob
+deep-translator
+langdetect
+requests
+streamlit
+sqlite3
+sqlalchemy
